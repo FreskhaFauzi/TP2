@@ -27,17 +27,21 @@ File yang saya lampirkan dalam bentuk zip agar menghindari error.
 
 command yang dijalankan:
 
-```php artisan migrate```
-
-```npm run install```
+```npm install```
 
 ``npm run dev`` 
 
 dan
 
+```php artisan migrate```
+
 ``php artisan ser``
 
 dan untuk server yang dibuka adalah php artisan ser
+
+Jika terjadi error Permission Denied saat menjalankan ``npm run dev`` , Jalankan command berikut:
+
+``npm rebuild``
 
 Jika terjadi error ``file_put_contents: Failed to open stream, no such file or directory``
 
