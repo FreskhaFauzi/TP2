@@ -23,6 +23,8 @@ Node.js
 
 Untuk tugas kedua saya menggunakan laravel dan reactjs
 
+File yang saya lampirkan dalam bentuk zip agar menghindari error.
+
 command yang dijalankan:
 
 ```php artisan migrate```
